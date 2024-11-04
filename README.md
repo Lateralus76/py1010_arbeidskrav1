@@ -2,4 +2,4 @@
 
 Dette er besvarelse på første arbeidskrav i grunnleggende programmering (py1010).
 
-hm
+Gjennomført av Håvard Mallaug
